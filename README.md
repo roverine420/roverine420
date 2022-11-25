@@ -1,6 +1,7 @@
 ### Seja bem-vindo(a) 👋
 - 🖥 Participante do projeto ENTRA21
 - 🌱 Estudando JAVA
+- 🌱 Estudando Desenvolvimento mobile Android com JAVA
 - 🌱 Estudando Desenvolvimeto de sistemas
 - 📫 Contato pelo email: gabriel.rover@hotmail.com
 
