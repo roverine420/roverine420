@@ -1,9 +1,6 @@
 ### Seja bem-vindo(a) 👋
 - 🖥 Participante do projeto ENTRA21
-- 🌱 Estudando JAVA
-- 🌱 Estudando Desenvolvimento mobile Android com JAVA
-- 🌱 Estudando Desenvolvimeto de sistemas
-- 📫 Contato pelo email: gabriel.rover@hotmail.com
+- 🌱 Desenvolvimeto de sistemas
 
  <div align="center">
   <a href="https://github.com/roverine420">
@@ -19,7 +16,7 @@
   <a href = "mailto:gabriel.rover@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-rover-579a2820a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/roverine420/roverine420/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
