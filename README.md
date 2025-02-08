@@ -12,8 +12,9 @@
 
 <h2>🎓 Educação</h2>
 <ul>
-  <li><strong>Entra 21 (2022)</strong>: Programa de formação em tecnologia.</li>
   <li><strong>Formação em Desenvolvimento de Sistemas</strong></li>
+
+  <li><strong>Entra 21 (2022)</strong>: Programa de formação em tecnologia.</li>
 </ul>
 
 <h2>💼 Experiência</h2>
