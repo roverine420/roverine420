@@ -1,17 +1,26 @@
-### Seja bem-vindo(a) 👋
-- 🖥 Participante do projeto ENTRA21
-- 🌱 Desenvolvimento de sistemas
-- 📫 Contato pelo email: gabriel.rover@hotmail.com
+<h1>Software Developer | Full Stack</h1>
 
-<div align="center">
-  <a href="https://github.com/roverine420">
- 
-</div>
+<p>Olá! Sou um desenvolvedor de software com formação em Desenvolvimento de Sistemas e experiência prática em diversas tecnologias.</p>
 
-##
+<h2>🛠️ Tecnologias</h2>
+<ul>
+  <li><strong>Frontend</strong>: React.js, HTML, CSS</li>
+  <li><strong>Backend</strong>: Node.js, Java</li>
+  <li><strong>Bancos de Dados</strong>: MySQL, PostgreSQL</li>
+  <li><strong>Outros</strong>: PHP, C++</li>
+</ul>
 
-<div> 
-  <a href="https://instagram.com/gabriel_rover_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:gabriel.rover@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-rover-579a2820a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<h2>🎓 Educação</h2>
+<ul>
+  <li><strong>Entra 21 (2022)</strong>: Programa de formação em tecnologia.</li>
+  <li><strong>Formação em Desenvolvimento de Sistemas</strong></li>
+</ul>
+
+<h2>💼 Experiência</h2>
+<p>Tenho habilidades sólidas em desenvolvimento web full stack, com foco em criar soluções eficientes e de alta performance.</p>
+
+<h2>📫 Contato</h2>
+<ul>
+  <li>Email: <a href="mailto:gabriel.rover@hotmail.com">seu-email@example.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/gabriel-rover" target="_blank">seu-linkedin</a></li>
+</ul>
